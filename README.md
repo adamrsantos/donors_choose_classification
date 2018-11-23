@@ -20,3 +20,4 @@ Steps:
     -Perform analysis on which projects the model (best was gradient boosting) predicted incorrectly
 5) App Creation
     -I created a flask app to demonstrate how the model could be used with the website when a teacher submits a project
+6) [Presentation](https://docs.google.com/presentation/d/1sgdbRCGFOVAiT_4oTncEWEJW0x676xwRoQCVC4R5yPE/edit?usp=sharing)
