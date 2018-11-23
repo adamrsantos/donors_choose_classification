@@ -1,6 +1,6 @@
 # Donor's Choose Classification Project
 
-The purpose of this project is to look at data from the website Donor's Choose. The purpose of the website is to connect teachers who want additional funding for projects with donors who want to donate to education projects. Teacher's submit projects to the site and include a narrative of their project as well as what items they wish to purchase. My aim was to predict whether or not a project would be funded at the time of submission. If Donor's Choose had this information, they could automatically approve some projects while spending additional resources on projects that needed more attention. 
+The purpose of this project is to look at data from the website Donor's Choose. The purpose of the website is to connect teachers who want additional funding for projects with donors who want to donate to education projects. Teacher's submit projects to the site and include a narrative of their project as well as what items they wish to purchase. My aim was to predict whether or not a project would be funded at the time of submission. If Donor's Choose had this information, they could automatically approve some projects while spending additional resources on projects that needed more attention. Data can be found from the Kaggle Donor's Choose competition.
 
 Steps:
 1) Download the data from Kaggle and perform exploratory data analysis.
